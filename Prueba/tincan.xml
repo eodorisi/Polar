@@ -402,5 +402,9 @@
 			<name lang="und">Tacto</name>
 			<description lang="und">Tacto</description>
 		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6Z8XmG12yQc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Despedida </name>
+			<description lang="und">Despedida </description>
+		</activity>
 	</activities>
 </tincan>
