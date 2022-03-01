@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Entrenando mi escucha empática TCA</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/63jEQa0bqrX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6TX9ZACxuvf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Prepárate para aprender </name>
+			<description lang="und">Prepárate para aprender </description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5iVJjXtoa6h" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Finalidad del módulo</name>
+			<description lang="und">Finalidad del módulo</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/60MboACUzhf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Contenido</name>
+			<description lang="und">Contenido</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5a4MXeKaPuW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test de escucha</name>
+			<description lang="und">Test de escucha</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6Rz3bcFMzmU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexionemos</name>
+			<description lang="und">Reflexionemos</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5ssAx1617IX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexionemos </name>
+			<description lang="und">Reflexionemos </description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6X6BqEew4bv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¿Qué es la escucha empática?</name>
+			<description lang="und">¿Qué es la escucha empática?</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5Z24LJSNEfL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Niveles de Escucha</name>
+			<description lang="und">Niveles de Escucha</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6Pnn9etJrUl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Escucha empática </name>
+			<description lang="und">Escucha empática </description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/69VnmJf39uJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">La escucha empática consiste en:</name>
+			<description lang="und">La escucha empática consiste en:</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5wIz0xIm0Hz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Elementos claves de la escucha empática</name>
+			<description lang="und">Elementos claves de la escucha empática</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5q51FpzDi7I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¡Momento audiovisual!</name>
+			<description lang="und">¡Momento audiovisual!</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6jqoBUZKWNU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¿Cómo te hace sentir un buen oyente?</name>
+			<description lang="und">¿Cómo te hace sentir un buen oyente?</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6WhLeGW6jkE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reflexiona y responde</name>
+			<description lang="und">Reflexiona y responde</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5fNGaM4ZbuS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ejemplo de buen oyente </name>
+			<description lang="und">Ejemplo de buen oyente </description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6mTFss2pXJg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Diferencias entre oír y escuchar</name>
+			<description lang="und">Diferencias entre oír y escuchar</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5r8xLuKlNwY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Diferencias entre oír y escuchar</name>
+			<description lang="und">Diferencias entre oír y escuchar</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5eOBvJpuGCY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trampas comunes al escuchar y cómo evitarlas</name>
+			<description lang="und">Trampas comunes al escuchar y cómo evitarlas</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6EiGaKoYPKQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trampa 1</name>
+			<description lang="und">Trampa 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6Zg02w3DlEk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Esta trampa en nuestra vida </name>
+			<description lang="und">Esta trampa en nuestra vida </description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/65vuZDx4rQi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trampa 2</name>
+			<description lang="und">Trampa 2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6InEG6b8lyt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Esta trampa en nuestra vida cotidiana</name>
+			<description lang="und">Esta trampa en nuestra vida cotidiana</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6HH9HtL0IZ4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Regla de Mehrabian</name>
+			<description lang="und">Regla de Mehrabian</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6dgRMzZAlaz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trampa 3</name>
+			<description lang="und">Trampa 3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5yb0H4QMBib" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">La Escucha</name>
+			<description lang="und">La Escucha</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6jG2DDGyZx2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Indagar</name>
+			<description lang="und">Indagar</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6HVIT1MAeqS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Parafrasear</name>
+			<description lang="und">Parafrasear</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5pgCWeCRSti" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">La Empatía con el Cliente</name>
+			<description lang="und">La Empatía con el Cliente</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5VFk4kpe0pT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¡Momento audiovisual!</name>
+			<description lang="und">¡Momento audiovisual!</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6dhSYgB1xzK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Poniendo a prueba lo aprendido</name>
+			<description lang="und">Poniendo a prueba lo aprendido</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6NdE2F7x6K4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 1</name>
+			<description lang="und">Pregunta 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6NdE2F7x6K4/6hfGdk9PrrL" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La indagación es una técnica que nos permite descubrir por qué las personas piensan lo que piensan.</name>
+			<description lang="und">La indagación es una técnica que nos permite descubrir por qué las personas piensan lo que piensan.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6FkmEa4kbKT</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6FkmEa4kbKT</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_5kUnlCYPBUt</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5vj7nsJvgUX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 2</name>
+			<description lang="und">Pregunta 2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5vj7nsJvgUX/5tDJ0UI1W3h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La indagación genera barreras defensivas en el interlocutor.</name>
+			<description lang="und">La indagación genera barreras defensivas en el interlocutor.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6ak8UaHSkvF</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qEQNutv7af</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6ak8UaHSkvF</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6g9G8TiJSyL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 3</name>
+			<description lang="und">Pregunta 3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6g9G8TiJSyL/5xGy6mARmKc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La escucha empática requiere la apertura y receptividad para entender la posición del otro.</name>
+			<description lang="und">La escucha empática requiere la apertura y receptividad para entender la posición del otro.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6cLgd5iofUH</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6cLgd5iofUH</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6AWtqbb0PYz</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5tTyatIBumc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 4</name>
+			<description lang="und">Pregunta 4</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5tTyatIBumc/6FvaYrrmBwx" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">En la indagación se recomienda interrumpir el discurso de la otra persona para sugerirle las palabras que explican mejor la idea que desea transmitir.</name>
+			<description lang="und">En la indagación se recomienda interrumpir el discurso de la otra persona para sugerirle las palabras que explican mejor la idea que desea transmitir.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5veifqWdYZK</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_68W9YY7VGKy</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_5veifqWdYZK</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6V8cCH0LrrK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 5</name>
+			<description lang="und">Pregunta 5</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6V8cCH0LrrK/66nwIWoArgB" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Escuchar empáticamente significa escuchar con la intención de responder.</name>
+			<description lang="und">Escuchar empáticamente significa escuchar con la intención de responder.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_66ud2aLCuoK</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6Toex0zKizW</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_66ud2aLCuoK</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6SHv0ZUyc2Z" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 6</name>
+			<description lang="und">Pregunta 6</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6SHv0ZUyc2Z/5WWV3sWE8Bb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Escuchar empáticamente implica estar de acuerdo con la otra persona.</name>
+			<description lang="und">Escuchar empáticamente implica estar de acuerdo con la otra persona.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5xHhzSXSISt</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6fHeppY0n1d</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_5xHhzSXSISt</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5x4hIHDREPI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 7</name>
+			<description lang="und">Pregunta 7</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5x4hIHDREPI/6c7dr5sMNqc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">El interlocutor conoce y sabe expresar claramente su problema al momento de hablar.</name>
+			<description lang="und">El interlocutor conoce y sabe expresar claramente su problema al momento de hablar.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_64AWFWWm861</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_69xCZ6v4zTc</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_64AWFWWm861</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6Bq2nn0nHQM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 8</name>
+			<description lang="und">Pregunta 8</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6Bq2nn0nHQM/6mFqUdUxYEJ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Si se tiene apertura, se puede llevar a cabo una conversación sincera para expresar inquietudes e intereses.</name>
+			<description lang="und">Si se tiene apertura, se puede llevar a cabo una conversación sincera para expresar inquietudes e intereses.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6VKLjPapuOX</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6VKLjPapuOX</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6GWADq0NdFI</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5eB1VuGcUVO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 9</name>
+			<description lang="und">Pregunta 9</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5eB1VuGcUVO/5d8qOgyEuW2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La paráfrasis es una técnica para construir nuevos argumentos para manejar las objeciones de nuestros clientes.</name>
+			<description lang="und">La paráfrasis es una técnica para construir nuevos argumentos para manejar las objeciones de nuestros clientes.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5fB4i42UO8H</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6jKfUavBS3i</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_5fB4i42UO8H</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5tjMAASNG2P" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pregunta 10</name>
+			<description lang="und">Pregunta 10</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5tjMAASNG2P/5oVKXJqk4cN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">La indagación y paráfrasis nos permiten arreglar o intervenir en la situación de la otra persona.</name>
+			<description lang="und">La indagación y paráfrasis nos permiten arreglar o intervenir en la situación de la otra persona.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6VP40bFk6tO</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5cmOQuQdNTd</id>
+					<description lang="und">Verdadero</description>
+				</component>
+				<component>
+					<id>choice_6VP40bFk6tO</id>
+					<description lang="und">Falso</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6lWViBiHMxt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tips para desarrollar tu empatía con el cliente</name>
+			<description lang="und">Tips para desarrollar tu empatía con el cliente</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6B3IdIx6RiR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tips para desarrollar tu empatía con el cliente</name>
+			<description lang="und">Tips para desarrollar tu empatía con el cliente</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5qB5jB7HlNO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tips para desarrollar tu empatía con el cliente</name>
+			<description lang="und">Tips para desarrollar tu empatía con el cliente</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5ydOO93vUs5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Escucha empática en la gestión de ventas</name>
+			<description lang="und">Escucha empática en la gestión de ventas</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5xVpm62zUER" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">¡Momento audiovisual!</name>
+			<description lang="und">¡Momento audiovisual!</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6mrtdQRnggI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Beneficios de entrenar la Escucha Empática</name>
+			<description lang="und">Beneficios de entrenar la Escucha Empática</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6gkt9uYpll8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Material complementario</name>
+			<description lang="und">Material complementario</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6UNPAbkokIs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Los 5 sentidos en la comicación</name>
+			<description lang="und">Los 5 sentidos en la comicación</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/68ljo4iQbsC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Vista </name>
+			<description lang="und">Vista </description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/66lPoXLRHSe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Oído</name>
+			<description lang="und">Oído</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6aukWAcyczs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Olfato</name>
+			<description lang="und">Olfato</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/6XypCO5acxm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Gusto</name>
+			<description lang="und">Gusto</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5XUwUvmoO2x/5rYYv7fpZ75" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tacto</name>
+			<description lang="und">Tacto</description>
+		</activity>
+	</activities>
+</tincan>
